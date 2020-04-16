@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\bin\Debug\FillMyDisk.exe.config
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\bin\Debug\FillMyDisk.exe
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\bin\Debug\FillMyDisk.pdb
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\obj\Debug\FillMyDisk.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\obj\Debug\FillMyDisk.Form1.resources
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\obj\Debug\FillMyDisk.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\obj\Debug\FillMyDisk.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\obj\Debug\FillMyDisk.exe
+C:\Users\Administrator\source\repos\FillMyDisk\FillMyDisk\obj\Debug\FillMyDisk.pdb
